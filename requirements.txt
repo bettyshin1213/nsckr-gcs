@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.3
+pandas==2.2.2
+openpyxl==3.1.2
+playwright==1.44.0
+python-dotenv==1.0.1
+flask==3.1.1

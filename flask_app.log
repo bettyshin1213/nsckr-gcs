@@ -1,0 +1,11 @@
+2025-06-26 01:44:41,321 - __main__ - INFO - Flask æ÷«√∏Æƒ…¿Ãº« Ω√¿€
+2025-06-26 01:44:42,292 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.30.80.185:8000
+2025-06-26 01:44:42,292 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-26 01:44:55,039 - __main__ - INFO - ∏ﬁ¿Œ ∆‰¿Ã¡ˆ ¡¢º”
+2025-06-26 01:44:55,054 - werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 01:44:55] "GET / HTTP/1.1" 200 -
+2025-06-26 01:44:57,210 - werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 01:44:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-26 01:45:01,371 - werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 01:45:01] "GET /date/20250625 HTTP/1.1" 200 -
+2025-06-26 01:45:13,037 - __main__ - INFO - Flask æ÷«√∏Æƒ…¿Ãº« ¡æ∑·
