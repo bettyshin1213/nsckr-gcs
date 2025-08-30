@@ -3,11 +3,16 @@
 > **Automated Web Scraper for Imported Car Discounts**  
 > A Python-based scraper that collects daily discount data from the **GETCHA Mobile Website** and exports it into Excel for analysis.  
 > This project replaces manual data gathering and provides **real-time competitive insights** for business and marketing teams.  
-
+> Previous human scraping was done twice a month, at the beginning and end of each month. Each time it took **at least half a
+day, often a full day,** making it quite a draining job with a possibility of human error.
+> Daily monitoring of competitor's (MB) discount rates to track competitor's price strategy/competitiveness.
 ---
 
 # 📄 Overview 
+<img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/77b98312-84bc-4c06-a5d9-a7793da6c310" />
 
+---
+Carried out under the theme of “Enhancing Business Efficiency,” delivering automation to replace time-consuming manual processes.
 <img width="1033" height="553" alt="image" src="https://github.com/user-attachments/assets/dce4a7e7-deb5-4f1c-92b1-7701bed60849" />
 <img width="1001" height="553" alt="image" src="https://github.com/user-attachments/assets/2e6f4441-1e8b-42bb-a096-85efa32758d9" />
 
@@ -72,3 +77,4 @@ scraping.log
 ## 🚀 Future Improvements
 	•	☁️ Migrate to AWS Lambda.
 	•	🔧 Integrate with MCP for lifecycle management.
+
