@@ -6,6 +6,13 @@
 
 ---
 
+# 📄 Overview 
+
+<img width="1033" height="553" alt="image" src="https://github.com/user-attachments/assets/dce4a7e7-deb5-4f1c-92b1-7701bed60849" />
+<img width="1001" height="553" alt="image" src="https://github.com/user-attachments/assets/2e6f4441-1e8b-42bb-a096-85efa32758d9" />
+
+---
+
 ## 🎯 Goals
 - Automate the collection of car discount data (BMW, Mini, MB, Audi, VW).  
 - Ensure **daily monitoring** of both BMW and competitors’ pricing strategies.  
@@ -36,7 +43,7 @@
 
 ---
 
-## Installation
+## ⚒️ Installation
 
 1. Clone the repository:
    ```
@@ -45,28 +52,23 @@
 
 2. Start a program: [`run-autoscrap.bat`] (located in the project directory).
 
-## Usage
+---
+
+## ⚙️ Usage
 
 1. Ensure you have the necessary web drivers installed for Selenium (e.g., ChromeDriver for Google Chrome).
 2. Update the `urls.json` file in src directory with the URLs you want to scrape.
 
-⸻
+---
 
-📦 Example Output
+## 📦 Example Output
 
 car_data_20250625.xlsx
 scraping.log
 
 
-⸻
+---
 
-
-🚀 Future Improvements
+## 🚀 Future Improvements
 	•	☁️ Migrate to AWS Lambda.
 	•	🔧 Integrate with MCP for lifecycle management.
-
-⸻
-
-👩‍💻 Authors & Contributors
-	•	Owner/Developer: Hyewon Shin (FG-AP-52)
-	•	Business User: Gayoung Ryu (C3-KR-V-1)
