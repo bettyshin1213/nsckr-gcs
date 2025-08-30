@@ -8,7 +8,7 @@ day, often a full day,** making it quite a draining job with a possibility of hu
 > Daily monitoring of competitor's (MB) discount rates to track competitor's price strategy/competitiveness.
 ---
 
-# 📄 Overview 
+## 📄 Overview 
 <img width="1034" height="522" alt="image" src="https://github.com/user-attachments/assets/77b98312-84bc-4c06-a5d9-a7793da6c310" />
 
 ---
@@ -77,4 +77,5 @@ scraping.log
 ## 🚀 Future Improvements
 	•	☁️ Migrate to AWS Lambda.
 	•	🔧 Integrate with MCP for lifecycle management.
+
 
